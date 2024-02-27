@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [UpdateCheckerPowerShell](https://github.com/RaptorXilef/UpdateCheckerPowerShell)
+- 🌱 I’m currently learning PowerShell
+- 🕗 I would like to learn Python next
+<!--- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...-->
+- ⚡ Fun fact: One of my hobbies is translating English webcomics into German. [TwoKinds](https://twokinds.4lima.de/) next TwinDragons
 <!--
 **RaptorXilef/RaptorXilef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About:
+I like to learn new things and link them to small projects as a learning goal. I would also like to learn different programming languages. At the moment I only know scripting languages like HTML, CSS, CMD & PowerShell. But hopefully I will learn more in the future.
+I am always open for constructive feedback. So keep it coming!
