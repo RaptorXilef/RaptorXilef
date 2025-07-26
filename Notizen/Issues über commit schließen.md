@@ -20,6 +20,15 @@ Die gängigsten Schlüsselwörter sind:
 
 ---
 
+### Die gängigsten Schlüsselwörter und ihre Bedeutung
+* `close, closes, closed:` Dies sind die generischsten Schlüsselwörter. Sie bedeuten einfach, dass das Issue nun beendet ist. Du verwendest sie, wenn die Arbeit abgeschlossen ist und das Problem nicht mehr existiert.
+
+* `fix, fixes, fixed:` Diese Schlüsselwörter implizieren, dass ein Fehler oder ein Problem behoben wurde. Wenn du also einen Bug-Fix in deinem Commit hast, passen diese Begriffe sehr gut.
+
+* `resolve, resolves, resolved:` Ähnlich wie "fix" deuten diese Schlüsselwörter darauf hin, dass ein Problem oder eine Aufgabe gelöst wurde. Sie können etwas breiter gefasst sein als "fix" und auch für die Erledigung von Feature-Anfragen oder die Klärung von Fragen verwendet werden.
+
+---
+
 ### So gehst du vor:
 
 1.  **Erstelle deinen Commit:**
