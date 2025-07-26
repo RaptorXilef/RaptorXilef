@@ -87,4 +87,22 @@ Es beinhaltet Validierungen für E-Mail und Passwort.
 Closes #78
 ```
 
-Diese Methode ist sehr nützlich, um deinen Workflow zu optimieren und die Issue-Verwaltung direkt in deinen E
+
+---
+
+### Verweis auf Issue ohne es zu schließen
+
+Um ein Issue in GitHub nur zu referenzieren, ohne es zu schließen, kannst du den Befehl refs `#<Nummer>` oder `references #<Nummer>` in deinem Commit-Kommentar verwenden, oder im Pull Request, anstatt `closes #<Nummer>`. 
+Das Schlüsselwort `refs` oder `references` wird verwendet, um eine Beziehung zu einem Issue herzustellen, ohne es zu schließen. 
+
+**Beispiel:**
+
+Wenn du ein Issue mit der Nummer 123 referenzieren möchtest, aber es nicht schließen willst, kannst du folgenden Kommentar verwenden:
+
+```
+This commit improves performance, refs #123.
+```
+
+```
+This commit adds a new feature, references #123.
+```
